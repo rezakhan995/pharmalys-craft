@@ -1,0 +1,22 @@
+dateModified: 1664348005
+email:
+  fromEmail: rezakhan995@gmail.com
+  fromName: Pharmalys
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    7a77143a-8307-4818-b2e9-bcaa093e0cc0: Pharmalys
+    c262e411-dd30-41a3-bb55-b96f716d6f5f: Pharmalys
+    dafde122-f5fd-4432-91ad-eeb61d448641: Common
+system:
+  edition: solo
+  live: true
+  name: Pharmalys
+  schemaVersion: 4.0.0.9
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
