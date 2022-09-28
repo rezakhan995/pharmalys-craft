@@ -1,13 +1,25 @@
-dateModified: 1664348005
+dateModified: 1664360214
 email:
   fromEmail: rezakhan995@gmail.com
   fromName: Pharmalys
   transportType: craft\mail\transportadapters\Sendmail
+fs:
+  uploads:
+    hasUrls: true
+    name: Uploads
+    settings:
+      path: asset
+    type: craft\fs\Local
+    url: asset
 meta:
   __names__:
-    7a77143a-8307-4818-b2e9-bcaa093e0cc0: Pharmalys
-    c262e411-dd30-41a3-bb55-b96f716d6f5f: Pharmalys
-    dafde122-f5fd-4432-91ad-eeb61d448641: Common
+    2b3bb5c4-e98c-4cd1-99e3-28f77835a741: 'Home Page'
+    7a77143a-8307-4818-b2e9-bcaa093e0cc0: Pharmalys # Pharmalys
+    a2f77e8a-57f2-43e9-ba59-155aaee8ca4d: Home # Home
+    c262e411-dd30-41a3-bb55-b96f716d6f5f: Pharmalys # Pharmalys
+    ce473302-1ab9-45f4-81a6-1ad5ae27c7f7: Uploads # Uploads
+    dafde122-f5fd-4432-91ad-eeb61d448641: Common # Common
+    e52d6f70-8dce-4a23-a876-38e41facd899: Home # Home
 system:
   edition: solo
   live: true
