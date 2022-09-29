@@ -1,4 +1,4 @@
-dateModified: 1664360214
+dateModified: 1664426919
 email:
   fromEmail: rezakhan995@gmail.com
   fromName: Pharmalys
@@ -13,8 +13,10 @@ fs:
     url: asset
 meta:
   __names__:
-    2b3bb5c4-e98c-4cd1-99e3-28f77835a741: 'Home Page'
+    2b3bb5c4-e98c-4cd1-99e3-28f77835a741: 'Home Page' # Home Page
     7a77143a-8307-4818-b2e9-bcaa093e0cc0: Pharmalys # Pharmalys
+    81b22073-ce0c-4b98-92c6-a83c1e0b8cf1: 'Public Schema'
+    82514463-38e0-449f-b619-2808fde5c80b: 'Public Schema' # Public Schema
     a2f77e8a-57f2-43e9-ba59-155aaee8ca4d: Home # Home
     c262e411-dd30-41a3-bb55-b96f716d6f5f: Pharmalys # Pharmalys
     ce473302-1ab9-45f4-81a6-1ad5ae27c7f7: Uploads # Uploads
